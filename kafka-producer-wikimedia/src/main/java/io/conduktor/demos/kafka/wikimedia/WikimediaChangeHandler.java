@@ -22,6 +22,7 @@ public class WikimediaChangeHandler implements EventHandler {
     @Override
     public void onOpen() {
         // nothing here
+        ///
     }
 
     @Override
